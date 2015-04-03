@@ -17,7 +17,7 @@ GitHub repositories와 Bootstrap 첫걸음
 ![Alt text](/C:\Users\innotree\Pictures\이미지 5.jpg)
 -----------------------------------------------------
 로컬디렉토리안에 깃허브로 푸시할 파일으 넣어 보자
-안에 들어간 인덱스html파일 부트스트랩 기본사용방식이다. CDN방식으로
+안에 들어간 인덱스html파일 부트스트랩 기본사용방식이다. CDN방식으로 제이쿼리랑 css까지 함께 설정했다.
  http://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp 이쪽에가면 부트스트랩 예제들이 많다..!!
 ![Alt text](/C:\Users\innotree\Pictures\이미지 7.jpg)
 --------------------------------------------------------
@@ -28,7 +28,9 @@ GitHub repositories와 Bootstrap 첫걸음
  ![Alt text](/C:\Users\innotree\Pictures\이미지 6.jpg)
 --------------------------------------------------------------------
 나의 깃허브 스터디부트스트랩 의 레파지토리를 보니 푸시 완료!
+
  ![Alt text](/C:\Users\innotree\Pictures\이미지 8.jpg)
+------------------------------------------------------------------
 
 
 
